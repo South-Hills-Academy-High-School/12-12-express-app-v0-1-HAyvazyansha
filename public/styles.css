@@ -30,7 +30,17 @@ h1 {
   background-attachment: fixed;
   clip-path: circle(30px);
 color: transparent;
-
+}
+.container-snow{
+  min-height: 50px;
+  padding-top: 20px;
+  text-align: center;
+  background-image: url('https://www.albawaba.com/sites/default/files/styles/default/public/im/English_Slideshows_/Cars_that_Arabs_go_crazy_for/arab-cars-ss-2.jpg?itok=49JGNWy2');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  clip-path: url1('https://upload.wikimedia.org/wikipedia/commons/0/0f/Scandinavian_Snowflake.svg');
+color: transparent;
 }
 
 .circle {
